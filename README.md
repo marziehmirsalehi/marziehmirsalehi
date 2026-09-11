@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://www.picofile.com/f/SEVkr4bVXv/my-image.webp" width="100%" />
+</p>
+
 # Hi, I'm Marzieh! 👋
 
 I’m a Software Engineering graduate from Shariati University, currently focusing on Front-End development. 💻✨
