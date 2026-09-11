@@ -5,7 +5,7 @@
 ---
 
 ### 🛠 My Tech Stack
-*I build interfaces that are clean, responsive, and efficient.*
+*Building interfaces that are responsive, clean, and efficient.*
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -17,6 +17,14 @@
 ---
 
 ### 🎯 Current Focus
-- 🚀 **Mastering JavaScript:** Diving deep into ES6+ and modern features.
-- ⚛️ **React Ecosystem:** Scaling my front-end skills to build dynamic applications.
-- 💻 **Clean Code:** Ensuring every line of code is maintainable and professional.
+- 📚 **Academic Journey:** Currently pursuing my studies and bridging the gap between theory and real-world code.
+- 🚀 **Mastering JS & React:** Deepening my expertise to build dynamic and scalable applications.
+- 💻 **Clean Code:** Ensuring every project is maintainable, well-structured, and professional.
+
+---
+
+### 📬 Let's Connect
+*Open to networking and discussing web development, clean code, and new challenges.*
+
+- 🔗 [LinkedIn](لینک_لینکدین_خودت_را_اینجا_بگذار)
+- 📧 [Email](ایمیل_خودت_را_اینجا_بگذار)
