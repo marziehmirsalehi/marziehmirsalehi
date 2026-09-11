@@ -7,11 +7,6 @@ This is my space to document my learning journey and projects. I’m passionate 
 I love connecting with others in the tech community. If you’d like to chat about tech or projects, feel free to reach out! 💌🤝
 
 ---
-markdown
-### 🎓 Mentorship
-Learning and growing under the guidance of @parsaGhorbanian
-
----
 
 ### 🛠 Tech Stack
 <p align="left">
