@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.picofile.com/f/SEVkr4bVXv/my-image.webp" width="100%" />
+  <img width="1376" height="768" alt="my image" src="https://github.com/user-attachments/assets/e4c7f96c-f64e-4361-b275-7d2a6eead349" />
 </p>
 
 # Hi, I'm Marzieh! 👋
